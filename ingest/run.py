@@ -24,6 +24,7 @@ from .port_congestion import PortCongestionTracker, PortWaitRecord
 
 
 BASELINE_WINDOW_DAYS = 30
+MIN_VISIT_HOURS = 1.0  # filter transit-through noise from multipolygon crossings
 
 
 def _replay(session) -> PortCongestionTracker:
@@ -63,6 +64,8 @@ def _write_port_visits(session, tracker: PortCongestionTracker) -> int:
     n = 0
     for locode, records in tracker.wait_history.items():
         for r in records:
+            if r.wait_hours < MIN_VISIT_HOURS:
+                continue
             session.add(PortVisit(
                 mmsi=str(r.mmsi),
                 locode=locode,
@@ -83,6 +86,7 @@ def _aggregate_snapshots(session, tracker: PortCongestionTracker) -> int:
     by_port: dict[str, list[PortWaitRecord]] = tracker.wait_history
     n = 0
     for locode, records in by_port.items():
+        records = [r for r in records if r.wait_hours >= MIN_VISIT_HOURS]
         if not records:
             continue
         records = sorted(records, key=lambda r: r.anchorage_exit)

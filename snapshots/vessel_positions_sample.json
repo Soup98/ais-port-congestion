@@ -1,0 +1,2976 @@
+{
+  "version": 1,
+  "generated_at": "2026-05-13T16:01:58+00:00",
+  "data": [
+    {
+      "mmsi": "200000006",
+      "name": "CAPE GUARDIAN 4",
+      "type": "Bulk Carrier",
+      "lat": 1.4412562547066012,
+      "lng": 103.90500961617454,
+      "speed_knots": 0.05,
+      "course": 110.45636254726489,
+      "timestamp": "2026-05-11T21:27:05"
+    },
+    {
+      "mmsi": "200000024",
+      "name": "ATLANTIC PIONEER 6",
+      "type": "Cargo",
+      "lat": 33.67999454017945,
+      "lng": -118.30437882748076,
+      "speed_knots": 5.3,
+      "course": 218.46387588363535,
+      "timestamp": "2026-05-11T21:31:44"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4434190385869636,
+      "lng": 103.90269980425344,
+      "speed_knots": 0.13,
+      "course": 165.511530128259,
+      "timestamp": "2026-05-11T21:34:04"
+    },
+    {
+      "mmsi": "200000018",
+      "name": "STELLA MARIS 5",
+      "type": "Container",
+      "lat": 30.86095434819478,
+      "lng": 121.87554674837443,
+      "speed_knots": 0.17,
+      "course": 213.16059180214873,
+      "timestamp": "2026-05-11T21:36:41"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864322235988222,
+      "lng": 121.88079098315133,
+      "speed_knots": 0.24,
+      "course": 314.9679141229613,
+      "timestamp": "2026-05-11T21:39:00"
+    },
+    {
+      "mmsi": "200000006",
+      "name": "CAPE GUARDIAN 4",
+      "type": "Bulk Carrier",
+      "lat": 1.442186777157838,
+      "lng": 103.90408641259242,
+      "speed_knots": 0.22,
+      "course": 341.56371751966356,
+      "timestamp": "2026-05-11T21:42:05"
+    },
+    {
+      "mmsi": "200000024",
+      "name": "ATLANTIC PIONEER 6",
+      "type": "Cargo",
+      "lat": 33.66531328104303,
+      "lng": -118.3160417229261,
+      "speed_knots": 3.9,
+      "course": 218.46387588363535,
+      "timestamp": "2026-05-11T21:46:44"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4427806214622205,
+      "lng": 103.90184184286005,
+      "speed_knots": 0.13,
+      "course": 145.59223842188436,
+      "timestamp": "2026-05-11T21:49:04"
+    },
+    {
+      "mmsi": "200000018",
+      "name": "STELLA MARIS 5",
+      "type": "Container",
+      "lat": 30.860558221651722,
+      "lng": 121.87739680188794,
+      "speed_knots": 0.15,
+      "course": 181.37439530187433,
+      "timestamp": "2026-05-11T21:51:41"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864436793242074,
+      "lng": 121.88088776992784,
+      "speed_knots": 0.02,
+      "course": 298.761944137681,
+      "timestamp": "2026-05-11T21:54:00"
+    },
+    {
+      "mmsi": "200000006",
+      "name": "CAPE GUARDIAN 4",
+      "type": "Bulk Carrier",
+      "lat": 1.44270717659834,
+      "lng": 103.90461491871753,
+      "speed_knots": 0.3,
+      "course": 347.46621850351835,
+      "timestamp": "2026-05-11T21:57:05"
+    },
+    {
+      "mmsi": "200000024",
+      "name": "ATLANTIC PIONEER 6",
+      "type": "Cargo",
+      "lat": 33.650632021906596,
+      "lng": -118.32770461837146,
+      "speed_knots": 6.8,
+      "course": 218.46387588363535,
+      "timestamp": "2026-05-11T22:01:44"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4439051795765643,
+      "lng": 103.90179475200986,
+      "speed_knots": 0.12,
+      "course": 347.83188877192543,
+      "timestamp": "2026-05-11T22:04:04"
+    },
+    {
+      "mmsi": "200000018",
+      "name": "STELLA MARIS 5",
+      "type": "Container",
+      "lat": 30.861981657334464,
+      "lng": 121.87605721651681,
+      "speed_knots": 0.26,
+      "course": 106.69092725941309,
+      "timestamp": "2026-05-11T22:06:41"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864816111617483,
+      "lng": 121.88144604436846,
+      "speed_knots": 0.03,
+      "course": 104.60769268542248,
+      "timestamp": "2026-05-11T22:09:00"
+    },
+    {
+      "mmsi": "200000006",
+      "name": "CAPE GUARDIAN 4",
+      "type": "Bulk Carrier",
+      "lat": 1.4408745457644943,
+      "lng": 103.90503649319787,
+      "speed_knots": 0.28,
+      "course": 348.3114068217368,
+      "timestamp": "2026-05-11T22:12:05"
+    },
+    {
+      "mmsi": "200000024",
+      "name": "ATLANTIC PIONEER 6",
+      "type": "Cargo",
+      "lat": 33.635950762770165,
+      "lng": -118.3393675138168,
+      "speed_knots": 6.5,
+      "course": 218.46387588363535,
+      "timestamp": "2026-05-11T22:16:44"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.442968642599625,
+      "lng": 103.90311095021735,
+      "speed_knots": 0.14,
+      "course": 248.25961478886836,
+      "timestamp": "2026-05-11T22:19:04"
+    },
+    {
+      "mmsi": "200000018",
+      "name": "STELLA MARIS 5",
+      "type": "Container",
+      "lat": 30.86107752830655,
+      "lng": 121.87577775407304,
+      "speed_knots": 0.07,
+      "course": 192.08368484495608,
+      "timestamp": "2026-05-11T22:21:41"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864479287536888,
+      "lng": 121.88144169265226,
+      "speed_knots": 0.02,
+      "course": 266.57025821851414,
+      "timestamp": "2026-05-11T22:24:00"
+    },
+    {
+      "mmsi": "200000006",
+      "name": "CAPE GUARDIAN 4",
+      "type": "Bulk Carrier",
+      "lat": 1.4277529760013705,
+      "lng": 103.89587716220082,
+      "speed_knots": 2.8,
+      "course": 212.49820730768747,
+      "timestamp": "2026-05-11T22:27:05"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4433486016209374,
+      "lng": 103.90208914515783,
+      "speed_knots": 0.03,
+      "course": 156.84354969854402,
+      "timestamp": "2026-05-11T22:34:04"
+    },
+    {
+      "mmsi": "200000018",
+      "name": "STELLA MARIS 5",
+      "type": "Container",
+      "lat": 30.86112418559294,
+      "lng": 121.87681877796784,
+      "speed_knots": 0.28,
+      "course": 99.99234150207985,
+      "timestamp": "2026-05-11T22:36:41"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864865177734945,
+      "lng": 121.88225780430412,
+      "speed_knots": 0.02,
+      "course": 73.82320184897667,
+      "timestamp": "2026-05-11T22:39:00"
+    },
+    {
+      "mmsi": "200000006",
+      "name": "CAPE GUARDIAN 4",
+      "type": "Bulk Carrier",
+      "lat": 1.4136961717241012,
+      "lng": 103.88692260853867,
+      "speed_knots": 4.2,
+      "course": 212.49820730768747,
+      "timestamp": "2026-05-11T22:42:05"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4434257958711012,
+      "lng": 103.90137301577366,
+      "speed_knots": 0.26,
+      "course": 268.48973752725703,
+      "timestamp": "2026-05-11T22:49:04"
+    },
+    {
+      "mmsi": "200000018",
+      "name": "STELLA MARIS 5",
+      "type": "Container",
+      "lat": 30.860806441788355,
+      "lng": 121.87728631296653,
+      "speed_knots": 0.02,
+      "course": 352.808518183551,
+      "timestamp": "2026-05-11T22:51:41"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.86380465553703,
+      "lng": 121.88225992569676,
+      "speed_knots": 0.15,
+      "course": 80.47569008334605,
+      "timestamp": "2026-05-11T22:54:00"
+    },
+    {
+      "mmsi": "200000006",
+      "name": "CAPE GUARDIAN 4",
+      "type": "Bulk Carrier",
+      "lat": 1.3996393674468317,
+      "lng": 103.87796805487652,
+      "speed_knots": 5.8,
+      "course": 212.49820730768747,
+      "timestamp": "2026-05-11T22:57:05"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4430680403562575,
+      "lng": 103.9027739573359,
+      "speed_knots": 0.02,
+      "course": 227.96088010854712,
+      "timestamp": "2026-05-11T23:04:04"
+    },
+    {
+      "mmsi": "200000018",
+      "name": "STELLA MARIS 5",
+      "type": "Container",
+      "lat": 30.862519571540528,
+      "lng": 121.87595949205274,
+      "speed_knots": 0.03,
+      "course": 233.51238016103417,
+      "timestamp": "2026-05-11T23:06:41"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864867713258846,
+      "lng": 121.88248358885082,
+      "speed_knots": 0.09,
+      "course": 111.92069842585275,
+      "timestamp": "2026-05-11T23:09:00"
+    },
+    {
+      "mmsi": "200000006",
+      "name": "CAPE GUARDIAN 4",
+      "type": "Bulk Carrier",
+      "lat": 1.3855825631695622,
+      "lng": 103.86901350121437,
+      "speed_knots": 3.8,
+      "course": 212.49820730768747,
+      "timestamp": "2026-05-11T23:12:05"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4436861058800143,
+      "lng": 103.90160352901123,
+      "speed_knots": 0.23,
+      "course": 126.39590458464977,
+      "timestamp": "2026-05-11T23:19:04"
+    },
+    {
+      "mmsi": "200000018",
+      "name": "STELLA MARIS 5",
+      "type": "Container",
+      "lat": 30.861805864760775,
+      "lng": 121.87748398453759,
+      "speed_knots": 0.1,
+      "course": 340.7140178528891,
+      "timestamp": "2026-05-11T23:21:41"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.865494668995975,
+      "lng": 121.88079197906065,
+      "speed_knots": 0.15,
+      "course": 247.59889090248907,
+      "timestamp": "2026-05-11T23:24:00"
+    },
+    {
+      "mmsi": "200000006",
+      "name": "CAPE GUARDIAN 4",
+      "type": "Bulk Carrier",
+      "lat": 1.371525758892293,
+      "lng": 103.86005894755222,
+      "speed_knots": 6.4,
+      "course": 212.49820730768747,
+      "timestamp": "2026-05-11T23:27:05"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4445413429364633,
+      "lng": 103.90250660755103,
+      "speed_knots": 0.04,
+      "course": 37.00962999999462,
+      "timestamp": "2026-05-11T23:34:04"
+    },
+    {
+      "mmsi": "200000018",
+      "name": "STELLA MARIS 5",
+      "type": "Container",
+      "lat": 30.8623084717777,
+      "lng": 121.87606762364304,
+      "speed_knots": 0.04,
+      "course": 323.40087339381523,
+      "timestamp": "2026-05-11T23:36:41"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.863745769463577,
+      "lng": 121.88077914888292,
+      "speed_knots": 0.18,
+      "course": 43.57239028167813,
+      "timestamp": "2026-05-11T23:39:00"
+    },
+    {
+      "mmsi": "200000006",
+      "name": "CAPE GUARDIAN 4",
+      "type": "Bulk Carrier",
+      "lat": 1.3574689546150234,
+      "lng": 103.85110439389007,
+      "speed_knots": 5.0,
+      "course": 212.49820730768747,
+      "timestamp": "2026-05-11T23:42:05"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4431368326824725,
+      "lng": 103.90156271964358,
+      "speed_knots": 0.05,
+      "course": 273.2948568164054,
+      "timestamp": "2026-05-11T23:49:04"
+    },
+    {
+      "mmsi": "200000018",
+      "name": "STELLA MARIS 5",
+      "type": "Container",
+      "lat": 30.86113028967906,
+      "lng": 121.87751006985008,
+      "speed_knots": 0.19,
+      "course": 3.746948962028638,
+      "timestamp": "2026-05-11T23:51:41"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.863710079009632,
+      "lng": 121.88118766476765,
+      "speed_knots": 0.14,
+      "course": 299.78152291543495,
+      "timestamp": "2026-05-11T23:54:00"
+    },
+    {
+      "mmsi": "200000006",
+      "name": "CAPE GUARDIAN 4",
+      "type": "Bulk Carrier",
+      "lat": 1.3434121503377539,
+      "lng": 103.84214984022792,
+      "speed_knots": 8.6,
+      "course": 212.49820730768747,
+      "timestamp": "2026-05-11T23:57:05"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.442775602785627,
+      "lng": 103.90311830587986,
+      "speed_knots": 0.19,
+      "course": 167.02310466468703,
+      "timestamp": "2026-05-12T00:04:04"
+    },
+    {
+      "mmsi": "200000018",
+      "name": "STELLA MARIS 5",
+      "type": "Container",
+      "lat": 30.861251465309373,
+      "lng": 121.87700050063592,
+      "speed_knots": 0.08,
+      "course": 92.15539626611542,
+      "timestamp": "2026-05-12T00:06:41"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864403983486145,
+      "lng": 121.88089038378287,
+      "speed_knots": 0.04,
+      "course": 145.64064096017944,
+      "timestamp": "2026-05-12T00:09:00"
+    },
+    {
+      "mmsi": "200000006",
+      "name": "CAPE GUARDIAN 4",
+      "type": "Bulk Carrier",
+      "lat": 1.3293553460604846,
+      "lng": 103.83319528656577,
+      "speed_knots": 5.5,
+      "course": 212.49820730768747,
+      "timestamp": "2026-05-12T00:12:05"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4437523672050447,
+      "lng": 103.90237465777811,
+      "speed_knots": 0.2,
+      "course": 317.5373363734561,
+      "timestamp": "2026-05-12T00:19:04"
+    },
+    {
+      "mmsi": "200000018",
+      "name": "STELLA MARIS 5",
+      "type": "Container",
+      "lat": 30.86057177598127,
+      "lng": 121.87685418246866,
+      "speed_knots": 0.26,
+      "course": 338.0460864378866,
+      "timestamp": "2026-05-12T00:21:41"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.865481744268884,
+      "lng": 121.88241961937399,
+      "speed_knots": 0.25,
+      "course": 196.81892911864628,
+      "timestamp": "2026-05-12T00:24:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4439108798998121,
+      "lng": 103.90318878549417,
+      "speed_knots": 0.1,
+      "course": 349.5503031149377,
+      "timestamp": "2026-05-12T00:34:04"
+    },
+    {
+      "mmsi": "200000018",
+      "name": "STELLA MARIS 5",
+      "type": "Container",
+      "lat": 30.86170702143214,
+      "lng": 121.87698475166988,
+      "speed_knots": 0.21,
+      "course": 340.43626960647777,
+      "timestamp": "2026-05-12T00:36:41"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.865159724653545,
+      "lng": 121.88214171835341,
+      "speed_knots": 0.26,
+      "course": 222.1770665373709,
+      "timestamp": "2026-05-12T00:39:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4432571740274502,
+      "lng": 103.90209524723137,
+      "speed_knots": 0.14,
+      "course": 227.29864320915456,
+      "timestamp": "2026-05-12T00:49:04"
+    },
+    {
+      "mmsi": "200000018",
+      "name": "STELLA MARIS 5",
+      "type": "Container",
+      "lat": 30.86105518933979,
+      "lng": 121.87679200656379,
+      "speed_knots": 0.18,
+      "course": 74.21724329937197,
+      "timestamp": "2026-05-12T00:51:41"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.86438105913379,
+      "lng": 121.882051471789,
+      "speed_knots": 0.06,
+      "course": 294.67803618353196,
+      "timestamp": "2026-05-12T00:54:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4442175555967718,
+      "lng": 103.90239856111235,
+      "speed_knots": 0.11,
+      "course": 26.708636222383568,
+      "timestamp": "2026-05-12T01:04:04"
+    },
+    {
+      "mmsi": "200000018",
+      "name": "STELLA MARIS 5",
+      "type": "Container",
+      "lat": 30.8614248687811,
+      "lng": 121.8761880733432,
+      "speed_knots": 0.06,
+      "course": 226.7282379477014,
+      "timestamp": "2026-05-12T01:06:41"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864831282461882,
+      "lng": 121.88112062844303,
+      "speed_knots": 0.22,
+      "course": 196.8051692256806,
+      "timestamp": "2026-05-12T01:09:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4435483812113619,
+      "lng": 103.90129093608984,
+      "speed_knots": 0.11,
+      "course": 103.34773173647493,
+      "timestamp": "2026-05-12T01:19:04"
+    },
+    {
+      "mmsi": "200000018",
+      "name": "STELLA MARIS 5",
+      "type": "Container",
+      "lat": 30.862256941672875,
+      "lng": 121.876330474098,
+      "speed_knots": 0.13,
+      "course": 262.7322857190892,
+      "timestamp": "2026-05-12T01:21:41"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.86446866853416,
+      "lng": 121.88135914983684,
+      "speed_knots": 0.2,
+      "course": 345.2729091938955,
+      "timestamp": "2026-05-12T01:24:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4439142291776206,
+      "lng": 103.90317045866377,
+      "speed_knots": 0.03,
+      "course": 213.86873470652412,
+      "timestamp": "2026-05-12T01:34:04"
+    },
+    {
+      "mmsi": "200000018",
+      "name": "STELLA MARIS 5",
+      "type": "Container",
+      "lat": 30.86140830612774,
+      "lng": 121.87583621566064,
+      "speed_knots": 0.14,
+      "course": 178.54602325964623,
+      "timestamp": "2026-05-12T01:36:41"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864502280008892,
+      "lng": 121.88211447677823,
+      "speed_knots": 0.12,
+      "course": 251.1549732681205,
+      "timestamp": "2026-05-12T01:39:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.443393861191634,
+      "lng": 103.90237638041351,
+      "speed_knots": 0.29,
+      "course": 266.01157637324656,
+      "timestamp": "2026-05-12T01:49:04"
+    },
+    {
+      "mmsi": "200000018",
+      "name": "STELLA MARIS 5",
+      "type": "Container",
+      "lat": 30.861459279227454,
+      "lng": 121.87717074325687,
+      "speed_knots": 0.05,
+      "course": 205.07687461813254,
+      "timestamp": "2026-05-12T01:51:41"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.86373102341448,
+      "lng": 121.88161287039637,
+      "speed_knots": 0.13,
+      "course": 10.069437191128717,
+      "timestamp": "2026-05-12T01:54:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4427069416661749,
+      "lng": 103.90303382151184,
+      "speed_knots": 0.17,
+      "course": 67.76620742492102,
+      "timestamp": "2026-05-12T02:04:04"
+    },
+    {
+      "mmsi": "200000018",
+      "name": "STELLA MARIS 5",
+      "type": "Container",
+      "lat": 30.84805395045722,
+      "lng": 121.8598873197485,
+      "speed_knots": 4.7,
+      "course": 230.99617541161984,
+      "timestamp": "2026-05-12T02:06:41"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.86443051629602,
+      "lng": 121.88190749562764,
+      "speed_knots": 0.0,
+      "course": 108.99416515432351,
+      "timestamp": "2026-05-12T02:09:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.443834907906609,
+      "lng": 103.90221845620243,
+      "speed_knots": 0.29,
+      "course": 162.18831924543287,
+      "timestamp": "2026-05-12T02:19:04"
+    },
+    {
+      "mmsi": "200000018",
+      "name": "STELLA MARIS 5",
+      "type": "Container",
+      "lat": 30.83456740191228,
+      "lng": 121.84323509221538,
+      "speed_knots": 3.4,
+      "course": 230.99617541161984,
+      "timestamp": "2026-05-12T02:21:41"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.86480656971171,
+      "lng": 121.88256551940626,
+      "speed_knots": 0.19,
+      "course": 15.347446850828801,
+      "timestamp": "2026-05-12T02:24:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4442468298611142,
+      "lng": 103.90289047595519,
+      "speed_knots": 0.29,
+      "course": 30.35848752884298,
+      "timestamp": "2026-05-12T02:34:04"
+    },
+    {
+      "mmsi": "200000018",
+      "name": "STELLA MARIS 5",
+      "type": "Container",
+      "lat": 30.821080853367338,
+      "lng": 121.82658286468228,
+      "speed_knots": 4.2,
+      "course": 230.99617541161984,
+      "timestamp": "2026-05-12T02:36:41"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.86533046860686,
+      "lng": 121.88270467050978,
+      "speed_knots": 0.14,
+      "course": 260.3034964576815,
+      "timestamp": "2026-05-12T02:39:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4439171504207564,
+      "lng": 103.9012940058511,
+      "speed_knots": 0.21,
+      "course": 356.7549681528795,
+      "timestamp": "2026-05-12T02:49:04"
+    },
+    {
+      "mmsi": "200000018",
+      "name": "STELLA MARIS 5",
+      "type": "Container",
+      "lat": 30.8075943048224,
+      "lng": 121.80993063714917,
+      "speed_knots": 4.9,
+      "course": 230.99617541161984,
+      "timestamp": "2026-05-12T02:51:41"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864070159814485,
+      "lng": 121.8827425848309,
+      "speed_knots": 0.11,
+      "course": 308.1022458521126,
+      "timestamp": "2026-05-12T02:54:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4436730333448093,
+      "lng": 103.90243533241134,
+      "speed_knots": 0.11,
+      "course": 330.4572440821058,
+      "timestamp": "2026-05-12T03:04:04"
+    },
+    {
+      "mmsi": "200000018",
+      "name": "STELLA MARIS 5",
+      "type": "Container",
+      "lat": 30.79410775627746,
+      "lng": 121.79327840961606,
+      "speed_knots": 7.8,
+      "course": 230.99617541161984,
+      "timestamp": "2026-05-12T03:06:41"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864522762978822,
+      "lng": 121.88147674562289,
+      "speed_knots": 0.21,
+      "course": 140.62475729507398,
+      "timestamp": "2026-05-12T03:09:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4433997293575151,
+      "lng": 103.90276465117584,
+      "speed_knots": 0.2,
+      "course": 18.851586312962255,
+      "timestamp": "2026-05-12T03:19:04"
+    },
+    {
+      "mmsi": "200000018",
+      "name": "STELLA MARIS 5",
+      "type": "Container",
+      "lat": 30.78062120773252,
+      "lng": 121.77662618208295,
+      "speed_knots": 8.3,
+      "course": 230.99617541161984,
+      "timestamp": "2026-05-12T03:21:41"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.8636418832781,
+      "lng": 121.88209091595438,
+      "speed_knots": 0.11,
+      "course": 258.91527922997767,
+      "timestamp": "2026-05-12T03:24:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4438866693873529,
+      "lng": 103.90188502029321,
+      "speed_knots": 0.1,
+      "course": 200.86675647062484,
+      "timestamp": "2026-05-12T03:34:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864194933889788,
+      "lng": 121.88220944212563,
+      "speed_knots": 0.24,
+      "course": 100.2024519636179,
+      "timestamp": "2026-05-12T03:39:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4433980246479166,
+      "lng": 103.90171971316863,
+      "speed_knots": 0.26,
+      "course": 347.18761031540754,
+      "timestamp": "2026-05-12T03:49:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.865041566909817,
+      "lng": 121.8813849372296,
+      "speed_knots": 0.12,
+      "course": 329.817608461955,
+      "timestamp": "2026-05-12T03:54:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4438302978657902,
+      "lng": 103.90151646825316,
+      "speed_knots": 0.02,
+      "course": 238.90035816218116,
+      "timestamp": "2026-05-12T04:04:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864806619747327,
+      "lng": 121.88153212292833,
+      "speed_knots": 0.14,
+      "course": 237.2298516700777,
+      "timestamp": "2026-05-12T04:09:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4444583891485832,
+      "lng": 103.90183618507379,
+      "speed_knots": 0.2,
+      "course": 238.36865649450476,
+      "timestamp": "2026-05-12T04:19:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864668429645118,
+      "lng": 121.88263390195031,
+      "speed_knots": 0.23,
+      "course": 189.15620664746584,
+      "timestamp": "2026-05-12T04:24:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4428827995550122,
+      "lng": 103.90263338962744,
+      "speed_knots": 0.03,
+      "course": 201.21194523278288,
+      "timestamp": "2026-05-12T04:34:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.86377519567515,
+      "lng": 121.8814272306838,
+      "speed_knots": 0.29,
+      "course": 125.3142792762634,
+      "timestamp": "2026-05-12T04:39:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4439118827651916,
+      "lng": 103.9018726747072,
+      "speed_knots": 0.04,
+      "course": 253.01911397595126,
+      "timestamp": "2026-05-12T04:49:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864751301784356,
+      "lng": 121.88158662516376,
+      "speed_knots": 0.01,
+      "course": 306.73122632381245,
+      "timestamp": "2026-05-12T04:54:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4445191134873079,
+      "lng": 103.90321004982462,
+      "speed_knots": 0.27,
+      "course": 33.643067423767825,
+      "timestamp": "2026-05-12T05:04:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.863834711084827,
+      "lng": 121.88097215834158,
+      "speed_knots": 0.03,
+      "course": 336.32420722064387,
+      "timestamp": "2026-05-12T05:09:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4439658083186289,
+      "lng": 103.90223269857154,
+      "speed_knots": 0.01,
+      "course": 111.19178522299713,
+      "timestamp": "2026-05-12T05:19:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.8644691777492,
+      "lng": 121.8822988960221,
+      "speed_knots": 0.29,
+      "course": 291.0799739525957,
+      "timestamp": "2026-05-12T05:24:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4445272348656613,
+      "lng": 103.90189918628896,
+      "speed_knots": 0.23,
+      "course": 69.12188411917906,
+      "timestamp": "2026-05-12T05:34:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864981645840928,
+      "lng": 121.88125231183129,
+      "speed_knots": 0.27,
+      "course": 62.63926522537123,
+      "timestamp": "2026-05-12T05:39:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.444624849480675,
+      "lng": 103.90152561194458,
+      "speed_knots": 0.09,
+      "course": 283.72326252170404,
+      "timestamp": "2026-05-12T05:49:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.865301297438492,
+      "lng": 121.88229070520758,
+      "speed_knots": 0.13,
+      "course": 23.17316489140382,
+      "timestamp": "2026-05-12T05:54:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4436402756639184,
+      "lng": 103.90229526311552,
+      "speed_knots": 0.22,
+      "course": 189.55138663641435,
+      "timestamp": "2026-05-12T06:04:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864740158985402,
+      "lng": 121.88100802502488,
+      "speed_knots": 0.25,
+      "course": 26.237410001085983,
+      "timestamp": "2026-05-12T06:09:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.443948754713212,
+      "lng": 103.90296850714378,
+      "speed_knots": 0.19,
+      "course": 215.00871878578627,
+      "timestamp": "2026-05-12T06:19:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.865043055635894,
+      "lng": 121.88199214406158,
+      "speed_knots": 0.25,
+      "course": 332.47830437618643,
+      "timestamp": "2026-05-12T06:24:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4429334017611113,
+      "lng": 103.90157741353303,
+      "speed_knots": 0.21,
+      "course": 224.90657278340856,
+      "timestamp": "2026-05-12T06:34:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864158670165345,
+      "lng": 121.88217652891153,
+      "speed_knots": 0.11,
+      "course": 355.99351100223123,
+      "timestamp": "2026-05-12T06:39:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4444302082038978,
+      "lng": 103.9026580875943,
+      "speed_knots": 0.01,
+      "course": 131.14778908707686,
+      "timestamp": "2026-05-12T06:49:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864663911059438,
+      "lng": 121.88117854631636,
+      "speed_knots": 0.08,
+      "course": 157.5053474633816,
+      "timestamp": "2026-05-12T06:54:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4440640675860503,
+      "lng": 103.90315489880551,
+      "speed_knots": 0.18,
+      "course": 270.86081944013495,
+      "timestamp": "2026-05-12T07:04:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.86408853040136,
+      "lng": 121.88118146294369,
+      "speed_knots": 0.05,
+      "course": 292.98158668183237,
+      "timestamp": "2026-05-12T07:09:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4441924969573388,
+      "lng": 103.90168372748737,
+      "speed_knots": 0.07,
+      "course": 347.6147893898531,
+      "timestamp": "2026-05-12T07:19:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.86513369617208,
+      "lng": 121.8811636690848,
+      "speed_knots": 0.17,
+      "course": 226.4816387410435,
+      "timestamp": "2026-05-12T07:24:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4441936367176553,
+      "lng": 103.90302367027496,
+      "speed_knots": 0.06,
+      "course": 244.19045702343328,
+      "timestamp": "2026-05-12T07:34:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.86485366823577,
+      "lng": 121.88118615667969,
+      "speed_knots": 0.24,
+      "course": 321.58476413700777,
+      "timestamp": "2026-05-12T07:39:00"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.443765735025197,
+      "lng": 103.90209691640571,
+      "speed_knots": 0.23,
+      "course": 280.12465340997335,
+      "timestamp": "2026-05-12T07:49:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864235473740305,
+      "lng": 121.88159513219945,
+      "speed_knots": 0.16,
+      "course": 25.90744169545227,
+      "timestamp": "2026-05-12T07:54:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.85923863101527,
+      "lng": -118.1911068737138,
+      "speed_knots": 8.5,
+      "course": 29.91311933635496,
+      "timestamp": "2026-05-12T07:55:41"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4436307096214442,
+      "lng": 103.90205304325215,
+      "speed_knots": 0.05,
+      "course": 71.8911833200851,
+      "timestamp": "2026-05-12T08:04:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.86388696044865,
+      "lng": 121.88223903169072,
+      "speed_knots": 0.27,
+      "course": 231.20365582507563,
+      "timestamp": "2026-05-12T08:09:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.842986457552634,
+      "lng": -118.2004572404307,
+      "speed_knots": 7.9,
+      "course": 29.91311933635496,
+      "timestamp": "2026-05-12T08:10:41"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4438342231336225,
+      "lng": 103.90296172543881,
+      "speed_knots": 0.02,
+      "course": 173.012635966257,
+      "timestamp": "2026-05-12T08:19:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864508702674947,
+      "lng": 121.88244388327709,
+      "speed_knots": 0.17,
+      "course": 170.54383322824611,
+      "timestamp": "2026-05-12T08:24:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.826734284089994,
+      "lng": -118.20980760714758,
+      "speed_knots": 8.3,
+      "course": 29.91311933635496,
+      "timestamp": "2026-05-12T08:25:41"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.443367320451678,
+      "lng": 103.9030843087067,
+      "speed_knots": 0.21,
+      "course": 185.72737951889465,
+      "timestamp": "2026-05-12T08:34:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864220563840803,
+      "lng": 121.88201603518674,
+      "speed_knots": 0.17,
+      "course": 49.63447308968393,
+      "timestamp": "2026-05-12T08:39:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.810482110627355,
+      "lng": -118.21915797386445,
+      "speed_knots": 5.7,
+      "course": 29.91311933635496,
+      "timestamp": "2026-05-12T08:40:41"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4428742517823963,
+      "lng": 103.90138347184944,
+      "speed_knots": 0.05,
+      "course": 161.75491933457727,
+      "timestamp": "2026-05-12T08:49:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.863650661094162,
+      "lng": 121.88163410095709,
+      "speed_knots": 0.11,
+      "course": 25.512342191449324,
+      "timestamp": "2026-05-12T08:54:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.79422993716471,
+      "lng": -118.22850834058134,
+      "speed_knots": 6.6,
+      "course": 29.91311933635496,
+      "timestamp": "2026-05-12T08:55:41"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4436516017143262,
+      "lng": 103.90287781503596,
+      "speed_knots": 0.03,
+      "course": 327.7817833418673,
+      "timestamp": "2026-05-12T09:04:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.863672639348604,
+      "lng": 121.88234385217403,
+      "speed_knots": 0.09,
+      "course": 42.453898337009605,
+      "timestamp": "2026-05-12T09:09:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.77797776370207,
+      "lng": -118.23785870729823,
+      "speed_knots": 4.8,
+      "course": 29.91311933635496,
+      "timestamp": "2026-05-12T09:10:41"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.44425830275018,
+      "lng": 103.90298498114613,
+      "speed_knots": 0.28,
+      "course": 149.36288609484194,
+      "timestamp": "2026-05-12T09:19:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.86397749874727,
+      "lng": 121.88198205662977,
+      "speed_knots": 0.1,
+      "course": 80.64764094112817,
+      "timestamp": "2026-05-12T09:24:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.76172559023943,
+      "lng": -118.24720907401512,
+      "speed_knots": 4.5,
+      "course": 29.91311933635496,
+      "timestamp": "2026-05-12T09:25:41"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4434178041694095,
+      "lng": 103.90196364457405,
+      "speed_knots": 0.12,
+      "course": 29.37795739597499,
+      "timestamp": "2026-05-12T09:34:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.86539758677377,
+      "lng": 121.88262362411758,
+      "speed_knots": 0.08,
+      "course": 253.178393012627,
+      "timestamp": "2026-05-12T09:39:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.74533647836006,
+      "lng": -118.25556778905147,
+      "speed_knots": 0.01,
+      "course": 350.4085447058049,
+      "timestamp": "2026-05-12T09:40:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 52.101994355293485,
+      "lng": 4.08142229538801,
+      "speed_knots": 10.3,
+      "course": 21.32000172034681,
+      "timestamp": "2026-05-12T09:43:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4430739737556832,
+      "lng": 103.9018530913496,
+      "speed_knots": 0.03,
+      "course": 257.2935381083626,
+      "timestamp": "2026-05-12T09:49:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.863652257372614,
+      "lng": 121.88252202413118,
+      "speed_knots": 0.29,
+      "course": 26.919764223639426,
+      "timestamp": "2026-05-12T09:54:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.74558629575123,
+      "lng": -118.25657792697862,
+      "speed_knots": 0.07,
+      "course": 331.6234611983104,
+      "timestamp": "2026-05-12T09:55:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 52.08646828260498,
+      "lng": 4.075362687756387,
+      "speed_knots": 9.7,
+      "course": 21.32000172034681,
+      "timestamp": "2026-05-12T09:58:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4432954769503015,
+      "lng": 103.90150782021233,
+      "speed_knots": 0.01,
+      "course": 330.2626217805905,
+      "timestamp": "2026-05-12T10:04:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.8646670634848,
+      "lng": 121.88248546789265,
+      "speed_knots": 0.28,
+      "course": 180.01692289416607,
+      "timestamp": "2026-05-12T10:09:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.744736811555434,
+      "lng": -118.25634519724625,
+      "speed_knots": 0.25,
+      "course": 34.9127359872303,
+      "timestamp": "2026-05-12T10:10:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 52.07094220991649,
+      "lng": 4.069303080124763,
+      "speed_knots": 9.4,
+      "course": 21.32000172034681,
+      "timestamp": "2026-05-12T10:13:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4435698061045648,
+      "lng": 103.90287794257056,
+      "speed_knots": 0.23,
+      "course": 168.87964577597774,
+      "timestamp": "2026-05-12T10:19:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864314791054397,
+      "lng": 121.88089237385708,
+      "speed_knots": 0.21,
+      "course": 39.914809538409884,
+      "timestamp": "2026-05-12T10:24:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.744910027538246,
+      "lng": -118.25557517891957,
+      "speed_knots": 0.17,
+      "course": 64.30407785893667,
+      "timestamp": "2026-05-12T10:25:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 52.055416137227986,
+      "lng": 4.0632434724931406,
+      "speed_knots": 6.6,
+      "course": 21.32000172034681,
+      "timestamp": "2026-05-12T10:28:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.443855592752796,
+      "lng": 103.9030274365769,
+      "speed_knots": 0.01,
+      "course": 77.6357080086076,
+      "timestamp": "2026-05-12T10:34:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864458309149388,
+      "lng": 121.88261386013406,
+      "speed_knots": 0.08,
+      "course": 10.792090681336077,
+      "timestamp": "2026-05-12T10:39:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.744791651813024,
+      "lng": -118.25600439137244,
+      "speed_knots": 0.22,
+      "course": 144.40194337088857,
+      "timestamp": "2026-05-12T10:40:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 52.039890064539485,
+      "lng": 4.057183864861517,
+      "speed_knots": 7.4,
+      "course": 21.32000172034681,
+      "timestamp": "2026-05-12T10:43:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4429239354763974,
+      "lng": 103.90309617349737,
+      "speed_knots": 0.18,
+      "course": 152.37171322127628,
+      "timestamp": "2026-05-12T10:49:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864192442221356,
+      "lng": 121.8813008396695,
+      "speed_knots": 0.1,
+      "course": 275.3049294753455,
+      "timestamp": "2026-05-12T10:54:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.745290449149024,
+      "lng": -118.25605687889133,
+      "speed_knots": 0.13,
+      "course": 215.72947368321343,
+      "timestamp": "2026-05-12T10:55:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 52.02436399185099,
+      "lng": 4.051124257229894,
+      "speed_knots": 6.4,
+      "course": 21.32000172034681,
+      "timestamp": "2026-05-12T10:58:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4441772415037397,
+      "lng": 103.90169100205198,
+      "speed_knots": 0.04,
+      "course": 85.83822124553616,
+      "timestamp": "2026-05-12T11:04:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.863794928992444,
+      "lng": 121.88187325215463,
+      "speed_knots": 0.22,
+      "course": 332.7027344155618,
+      "timestamp": "2026-05-12T11:09:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.7451122237721,
+      "lng": -118.25683309136882,
+      "speed_knots": 0.03,
+      "course": 318.5128319804653,
+      "timestamp": "2026-05-12T11:10:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 52.00883791916249,
+      "lng": 4.04506464959827,
+      "speed_knots": 5.1,
+      "course": 21.32000172034681,
+      "timestamp": "2026-05-12T11:13:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4439027997028147,
+      "lng": 103.90246134273538,
+      "speed_knots": 0.02,
+      "course": 301.20757941792067,
+      "timestamp": "2026-05-12T11:19:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864843023990865,
+      "lng": 121.88253561781836,
+      "speed_knots": 0.07,
+      "course": 26.24828465311485,
+      "timestamp": "2026-05-12T11:24:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.74639389557722,
+      "lng": -118.25603593446857,
+      "speed_knots": 0.1,
+      "course": 192.82573753374083,
+      "timestamp": "2026-05-12T11:25:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 51.99331184647399,
+      "lng": 4.0390050419666474,
+      "speed_knots": 4.1,
+      "course": 21.32000172034681,
+      "timestamp": "2026-05-12T11:28:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4436245546829443,
+      "lng": 103.90228782916732,
+      "speed_knots": 0.19,
+      "course": 207.01708471102808,
+      "timestamp": "2026-05-12T11:34:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.86541234692936,
+      "lng": 121.88258772519046,
+      "speed_knots": 0.21,
+      "course": 275.6067202292047,
+      "timestamp": "2026-05-12T11:39:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.74525776350966,
+      "lng": -118.25584132755691,
+      "speed_knots": 0.15,
+      "course": 167.00901912944042,
+      "timestamp": "2026-05-12T11:40:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 51.97845443183863,
+      "lng": 4.032086497611349,
+      "speed_knots": 0.29,
+      "course": 99.43843372582286,
+      "timestamp": "2026-05-12T11:43:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4440619848940537,
+      "lng": 103.90179826557424,
+      "speed_knots": 0.0,
+      "course": 127.01377426537218,
+      "timestamp": "2026-05-12T11:49:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.86358707588591,
+      "lng": 121.88274118954446,
+      "speed_knots": 0.28,
+      "course": 215.33314634966985,
+      "timestamp": "2026-05-12T11:54:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.746125693649255,
+      "lng": -118.256660528881,
+      "speed_knots": 0.28,
+      "course": 63.94558596625601,
+      "timestamp": "2026-05-12T11:55:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 51.97857105078558,
+      "lng": 4.032192377178908,
+      "speed_knots": 0.22,
+      "course": 339.9627980741429,
+      "timestamp": "2026-05-12T11:58:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4437662236705138,
+      "lng": 103.90159034942229,
+      "speed_knots": 0.2,
+      "course": 188.4544407641561,
+      "timestamp": "2026-05-12T12:04:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.86474121703757,
+      "lng": 121.88094026443592,
+      "speed_knots": 0.17,
+      "course": 340.7762435570899,
+      "timestamp": "2026-05-12T12:09:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.745050232396906,
+      "lng": -118.2564941093202,
+      "speed_knots": 0.1,
+      "course": 167.04773512652977,
+      "timestamp": "2026-05-12T12:10:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 51.977089466189014,
+      "lng": 4.032832197045571,
+      "speed_knots": 0.2,
+      "course": 273.8104542932585,
+      "timestamp": "2026-05-12T12:13:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4433461037538828,
+      "lng": 103.90312252895467,
+      "speed_knots": 0.16,
+      "course": 283.1084409043143,
+      "timestamp": "2026-05-12T12:19:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864057368549147,
+      "lng": 121.88086255941347,
+      "speed_knots": 0.01,
+      "course": 182.73753554439702,
+      "timestamp": "2026-05-12T12:24:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.74481795811314,
+      "lng": -118.25574487896117,
+      "speed_knots": 0.12,
+      "course": 235.1175268777904,
+      "timestamp": "2026-05-12T12:25:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 51.97680731185886,
+      "lng": 4.03218001836137,
+      "speed_knots": 0.09,
+      "course": 36.94039581564729,
+      "timestamp": "2026-05-12T12:28:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4436401414161277,
+      "lng": 103.90125639021127,
+      "speed_knots": 0.26,
+      "course": 15.672393060039589,
+      "timestamp": "2026-05-12T12:34:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864817025673233,
+      "lng": 121.8816421085856,
+      "speed_knots": 0.09,
+      "course": 305.94006088019853,
+      "timestamp": "2026-05-12T12:39:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.746421911560105,
+      "lng": -118.25673885312395,
+      "speed_knots": 0.19,
+      "course": 222.79534817270442,
+      "timestamp": "2026-05-12T12:40:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 51.978042865257024,
+      "lng": 4.032887652999792,
+      "speed_knots": 0.2,
+      "course": 107.5759975314627,
+      "timestamp": "2026-05-12T12:43:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4433986588815237,
+      "lng": 103.9019623263729,
+      "speed_knots": 0.22,
+      "course": 128.55379554530384,
+      "timestamp": "2026-05-12T12:49:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.865459283034014,
+      "lng": 121.88082196398373,
+      "speed_knots": 0.02,
+      "course": 278.50076736104575,
+      "timestamp": "2026-05-12T12:54:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.74475056086032,
+      "lng": -118.25631960014249,
+      "speed_knots": 0.3,
+      "course": 215.84454123236605,
+      "timestamp": "2026-05-12T12:55:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 51.97703550277124,
+      "lng": 4.033431257796587,
+      "speed_knots": 0.14,
+      "course": 25.344983912122782,
+      "timestamp": "2026-05-12T12:58:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4427600153539528,
+      "lng": 103.90169797344747,
+      "speed_knots": 0.2,
+      "course": 37.31899229988821,
+      "timestamp": "2026-05-12T13:04:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.865139078075224,
+      "lng": 121.88184744918159,
+      "speed_knots": 0.26,
+      "course": 245.49883787404167,
+      "timestamp": "2026-05-12T13:09:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.74593771276619,
+      "lng": -118.25566846269335,
+      "speed_knots": 0.1,
+      "course": 89.97867152039103,
+      "timestamp": "2026-05-12T13:10:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 51.97874375970452,
+      "lng": 4.033766446663887,
+      "speed_knots": 0.1,
+      "course": 97.95700357717008,
+      "timestamp": "2026-05-12T13:13:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4437887028815852,
+      "lng": 103.90272907945157,
+      "speed_knots": 0.04,
+      "course": 126.82765660110822,
+      "timestamp": "2026-05-12T13:19:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.8649921988764,
+      "lng": 121.8818840693794,
+      "speed_knots": 0.02,
+      "course": 275.6453455671818,
+      "timestamp": "2026-05-12T13:24:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.74561202907137,
+      "lng": -118.25661561364406,
+      "speed_knots": 0.03,
+      "course": 133.3065283907877,
+      "timestamp": "2026-05-12T13:25:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 51.97876169260064,
+      "lng": 4.032708437756419,
+      "speed_knots": 0.27,
+      "course": 40.62152613463551,
+      "timestamp": "2026-05-12T13:28:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4433019907548283,
+      "lng": 103.9025013128311,
+      "speed_knots": 0.25,
+      "course": 246.48572390723407,
+      "timestamp": "2026-05-12T13:34:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.8649072327996,
+      "lng": 121.88163851475667,
+      "speed_knots": 0.13,
+      "course": 49.59735484130644,
+      "timestamp": "2026-05-12T13:39:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.745959347526586,
+      "lng": -118.25579241577104,
+      "speed_knots": 0.2,
+      "course": 198.7406494027433,
+      "timestamp": "2026-05-12T13:40:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 51.97771882515447,
+      "lng": 4.033115391483583,
+      "speed_knots": 0.26,
+      "course": 248.91729229377364,
+      "timestamp": "2026-05-12T13:43:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4445865346100466,
+      "lng": 103.90217278394194,
+      "speed_knots": 0.05,
+      "course": 48.546929230661625,
+      "timestamp": "2026-05-12T13:49:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864392257445413,
+      "lng": 121.88257337091687,
+      "speed_knots": 0.29,
+      "course": 132.37512146416358,
+      "timestamp": "2026-05-12T13:54:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.746200293321635,
+      "lng": -118.25585882270465,
+      "speed_knots": 0.05,
+      "course": 132.8631557546678,
+      "timestamp": "2026-05-12T13:55:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 51.978374685013186,
+      "lng": 4.033462353400903,
+      "speed_knots": 0.07,
+      "course": 37.09805959378378,
+      "timestamp": "2026-05-12T13:58:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4440569863536614,
+      "lng": 103.90310293190012,
+      "speed_knots": 0.01,
+      "course": 72.57275742121233,
+      "timestamp": "2026-05-12T14:04:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.863903642993904,
+      "lng": 121.88165212711966,
+      "speed_knots": 0.02,
+      "course": 83.5320329153291,
+      "timestamp": "2026-05-12T14:09:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.74622271717084,
+      "lng": -118.25720901874494,
+      "speed_knots": 0.28,
+      "course": 331.69884645881285,
+      "timestamp": "2026-05-12T14:10:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 51.97878098439927,
+      "lng": 4.033152066471723,
+      "speed_knots": 0.18,
+      "course": 130.51777725566424,
+      "timestamp": "2026-05-12T14:13:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4442071146649271,
+      "lng": 103.90298730236994,
+      "speed_knots": 0.09,
+      "course": 111.62731785728106,
+      "timestamp": "2026-05-12T14:19:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.86469358668401,
+      "lng": 121.88123332923173,
+      "speed_knots": 0.22,
+      "course": 319.80072178531145,
+      "timestamp": "2026-05-12T14:24:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.74511886518034,
+      "lng": -118.25697347690068,
+      "speed_knots": 0.27,
+      "course": 74.52261751843099,
+      "timestamp": "2026-05-12T14:25:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 51.97852449636095,
+      "lng": 4.033275255556473,
+      "speed_knots": 0.25,
+      "course": 346.7679908550667,
+      "timestamp": "2026-05-12T14:28:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4434213443498412,
+      "lng": 103.90284653376001,
+      "speed_knots": 0.14,
+      "course": 13.183477753287004,
+      "timestamp": "2026-05-12T14:34:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.865102713420622,
+      "lng": 121.88191517468262,
+      "speed_knots": 0.3,
+      "course": 5.363481598884534,
+      "timestamp": "2026-05-12T14:39:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.74539577595216,
+      "lng": -118.25706934679026,
+      "speed_knots": 0.18,
+      "course": 356.296798043535,
+      "timestamp": "2026-05-12T14:40:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 51.97762912202123,
+      "lng": 4.033221554149915,
+      "speed_knots": 0.26,
+      "course": 100.873283320941,
+      "timestamp": "2026-05-12T14:43:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4439186972360705,
+      "lng": 103.90178794338979,
+      "speed_knots": 0.26,
+      "course": 17.209452328736894,
+      "timestamp": "2026-05-12T14:49:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864956005434532,
+      "lng": 121.88240432124321,
+      "speed_knots": 0.02,
+      "course": 45.617721959055345,
+      "timestamp": "2026-05-12T14:54:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.746066923890496,
+      "lng": -118.2556138301572,
+      "speed_knots": 0.15,
+      "course": 40.01662678515394,
+      "timestamp": "2026-05-12T14:55:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 51.97823387852069,
+      "lng": 4.032497165607136,
+      "speed_knots": 0.08,
+      "course": 182.81647859795896,
+      "timestamp": "2026-05-12T14:58:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4439363589735843,
+      "lng": 103.90176215481092,
+      "speed_knots": 0.24,
+      "course": 157.3024979249771,
+      "timestamp": "2026-05-12T15:04:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.86387753869179,
+      "lng": 121.88086651631565,
+      "speed_knots": 0.1,
+      "course": 235.87522268707224,
+      "timestamp": "2026-05-12T15:09:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.74568143036853,
+      "lng": -118.25689692226243,
+      "speed_knots": 0.28,
+      "course": 57.33597076051565,
+      "timestamp": "2026-05-12T15:10:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 51.977625064503734,
+      "lng": 4.0336180268296795,
+      "speed_knots": 0.29,
+      "course": 29.913609658579503,
+      "timestamp": "2026-05-12T15:13:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4434249397877579,
+      "lng": 103.9020951948661,
+      "speed_knots": 0.29,
+      "course": 122.05318622693783,
+      "timestamp": "2026-05-12T15:19:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864004840425213,
+      "lng": 121.88136390290255,
+      "speed_knots": 0.18,
+      "course": 172.33249155230683,
+      "timestamp": "2026-05-12T15:24:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.74539784124212,
+      "lng": -118.25563449267939,
+      "speed_knots": 0.0,
+      "course": 11.636124592486699,
+      "timestamp": "2026-05-12T15:25:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 51.961624792720905,
+      "lng": 4.028871067045756,
+      "speed_knots": 2.6,
+      "course": 194.1500440469779,
+      "timestamp": "2026-05-12T15:28:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4429985306736488,
+      "lng": 103.90259985858091,
+      "speed_knots": 0.11,
+      "course": 287.0247169355996,
+      "timestamp": "2026-05-12T15:34:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.863761104451058,
+      "lng": 121.88093268512701,
+      "speed_knots": 0.08,
+      "course": 195.7126304068412,
+      "timestamp": "2026-05-12T15:39:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.7458271615281,
+      "lng": -118.25582531530381,
+      "speed_knots": 0.3,
+      "course": 310.38082941408163,
+      "timestamp": "2026-05-12T15:40:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 51.94546381165632,
+      "lng": 4.0247966997564895,
+      "speed_knots": 4.8,
+      "course": 194.1500440469779,
+      "timestamp": "2026-05-12T15:43:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4431583376300734,
+      "lng": 103.90138094461196,
+      "speed_knots": 0.13,
+      "course": 155.0185747212409,
+      "timestamp": "2026-05-12T15:49:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864506210239895,
+      "lng": 121.88224951471507,
+      "speed_knots": 0.11,
+      "course": 329.43631104494375,
+      "timestamp": "2026-05-12T15:54:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.74461414800393,
+      "lng": -118.25672526151006,
+      "speed_knots": 0.08,
+      "course": 257.7515679109314,
+      "timestamp": "2026-05-12T15:55:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 51.92930283059173,
+      "lng": 4.020722332467222,
+      "speed_knots": 3.7,
+      "course": 194.1500440469779,
+      "timestamp": "2026-05-12T15:58:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4446150925681571,
+      "lng": 103.90157663457057,
+      "speed_knots": 0.09,
+      "course": 36.93524680156115,
+      "timestamp": "2026-05-12T16:04:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.863956926314277,
+      "lng": 121.88220534517718,
+      "speed_knots": 0.28,
+      "course": 280.87502597649467,
+      "timestamp": "2026-05-12T16:09:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.74471538072533,
+      "lng": -118.25600624767532,
+      "speed_knots": 0.19,
+      "course": 192.30149222400124,
+      "timestamp": "2026-05-12T16:10:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 51.91314184952714,
+      "lng": 4.016647965177955,
+      "speed_knots": 5.0,
+      "course": 194.1500440469779,
+      "timestamp": "2026-05-12T16:13:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4432807360491522,
+      "lng": 103.90180700149737,
+      "speed_knots": 0.13,
+      "course": 258.35864807219644,
+      "timestamp": "2026-05-12T16:19:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.864101718564456,
+      "lng": 121.88208636520073,
+      "speed_knots": 0.16,
+      "course": 96.3126897423656,
+      "timestamp": "2026-05-12T16:24:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.74452085702907,
+      "lng": -118.25659782560426,
+      "speed_knots": 0.22,
+      "course": 105.46670565156982,
+      "timestamp": "2026-05-12T16:25:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 51.896980868462556,
+      "lng": 4.012573597888688,
+      "speed_knots": 5.8,
+      "course": 194.1500440469779,
+      "timestamp": "2026-05-12T16:28:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4429581857826008,
+      "lng": 103.90210353836089,
+      "speed_knots": 0.13,
+      "course": 261.653182455997,
+      "timestamp": "2026-05-12T16:34:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.88223768562734,
+      "lng": 121.8879041754274,
+      "speed_knots": 4.0,
+      "course": 19.06689684595898,
+      "timestamp": "2026-05-12T16:39:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.74527021024998,
+      "lng": -118.2559148092162,
+      "speed_knots": 0.23,
+      "course": 130.81437635268713,
+      "timestamp": "2026-05-12T16:40:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 51.88081988739797,
+      "lng": 4.008499230599421,
+      "speed_knots": 6.7,
+      "course": 194.1500440469779,
+      "timestamp": "2026-05-12T16:43:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4444481107001617,
+      "lng": 103.9024454245631,
+      "speed_knots": 0.13,
+      "course": 230.20895177729292,
+      "timestamp": "2026-05-12T16:49:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.8999590195185,
+      "lng": 121.89402927339543,
+      "speed_knots": 4.1,
+      "course": 19.06689684595898,
+      "timestamp": "2026-05-12T16:54:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.74590666602576,
+      "lng": -118.25653632133262,
+      "speed_knots": 0.19,
+      "course": 154.2918736001288,
+      "timestamp": "2026-05-12T16:55:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 51.86465890633338,
+      "lng": 4.004424863310153,
+      "speed_knots": 4.8,
+      "course": 194.1500440469779,
+      "timestamp": "2026-05-12T16:58:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4442078518961285,
+      "lng": 103.90133043772732,
+      "speed_knots": 0.2,
+      "course": 146.2356833427549,
+      "timestamp": "2026-05-12T17:04:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.917680353409665,
+      "lng": 121.90015437136346,
+      "speed_knots": 3.3,
+      "course": 19.06689684595898,
+      "timestamp": "2026-05-12T17:09:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.74472153047014,
+      "lng": -118.25726747325291,
+      "speed_knots": 0.08,
+      "course": 297.0822928006374,
+      "timestamp": "2026-05-12T17:10:41"
+    },
+    {
+      "mmsi": "200000032",
+      "name": "BLUE HORIZON 8",
+      "type": "Tanker",
+      "lat": 51.8484979252688,
+      "lng": 4.000350496020886,
+      "speed_knots": 8.3,
+      "course": 194.1500440469779,
+      "timestamp": "2026-05-12T17:13:26"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4436510682773982,
+      "lng": 103.90271551756722,
+      "speed_knots": 0.05,
+      "course": 11.210622872416703,
+      "timestamp": "2026-05-12T17:19:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.935401687300825,
+      "lng": 121.9062794693315,
+      "speed_knots": 6.7,
+      "course": 19.06689684595898,
+      "timestamp": "2026-05-12T17:24:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.745980572490105,
+      "lng": -118.25733587326523,
+      "speed_knots": 0.05,
+      "course": 148.64149955178289,
+      "timestamp": "2026-05-12T17:25:41"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4443222348584102,
+      "lng": 103.90257189934269,
+      "speed_knots": 0.13,
+      "course": 45.44280874881154,
+      "timestamp": "2026-05-12T17:34:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.95312302119199,
+      "lng": 121.91240456729952,
+      "speed_knots": 6.6,
+      "course": 19.06689684595898,
+      "timestamp": "2026-05-12T17:39:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.745153086024985,
+      "lng": -118.25573349155124,
+      "speed_knots": 0.24,
+      "course": 75.63059430735387,
+      "timestamp": "2026-05-12T17:40:41"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4430968869993097,
+      "lng": 103.90250604735009,
+      "speed_knots": 0.11,
+      "course": 341.8081602767711,
+      "timestamp": "2026-05-12T17:49:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.97084435508315,
+      "lng": 121.91852966526756,
+      "speed_knots": 6.9,
+      "course": 19.06689684595898,
+      "timestamp": "2026-05-12T17:54:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.74466766818492,
+      "lng": -118.25627536958913,
+      "speed_knots": 0.02,
+      "course": 323.71031206302223,
+      "timestamp": "2026-05-12T17:55:41"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4426896668864284,
+      "lng": 103.90152259792548,
+      "speed_knots": 0.13,
+      "course": 133.5472227180363,
+      "timestamp": "2026-05-12T18:04:04"
+    },
+    {
+      "mmsi": "200000021",
+      "name": "PACIFIC STAR 7",
+      "type": "Cargo",
+      "lat": 30.98856568897431,
+      "lng": 121.92465476323558,
+      "speed_knots": 5.9,
+      "course": 19.06689684595898,
+      "timestamp": "2026-05-12T18:09:00"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.74545657063784,
+      "lng": -118.2570699838436,
+      "speed_knots": 0.08,
+      "course": 106.30514508567661,
+      "timestamp": "2026-05-12T18:10:41"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4435127748168202,
+      "lng": 103.90136949245635,
+      "speed_knots": 0.04,
+      "course": 132.10198151537963,
+      "timestamp": "2026-05-12T18:19:04"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.7453627609077,
+      "lng": -118.25598469283506,
+      "speed_knots": 0.21,
+      "course": 204.56322833230814,
+      "timestamp": "2026-05-12T18:25:41"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.4709714469862776,
+      "lng": 103.91455128653094,
+      "speed_knots": 3.4,
+      "course": 24.279327696335656,
+      "timestamp": "2026-05-12T18:34:04"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.74566227303631,
+      "lng": -118.25603679525643,
+      "speed_knots": 0.04,
+      "course": 103.83495486779937,
+      "timestamp": "2026-05-12T18:40:41"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.498317997734086,
+      "lng": 103.92688685146318,
+      "speed_knots": 4.1,
+      "course": 24.279327696335656,
+      "timestamp": "2026-05-12T18:49:04"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.74491545985593,
+      "lng": -118.25681773849482,
+      "speed_knots": 0.11,
+      "course": 104.83858727215663,
+      "timestamp": "2026-05-12T18:55:41"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.5256645484818945,
+      "lng": 103.93922241639542,
+      "speed_knots": 7.4,
+      "course": 24.279327696335656,
+      "timestamp": "2026-05-12T19:04:04"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.74636300059862,
+      "lng": -118.25724283584107,
+      "speed_knots": 0.19,
+      "course": 171.1025432997076,
+      "timestamp": "2026-05-12T19:10:41"
+    },
+    {
+      "mmsi": "200000003",
+      "name": "DELTA QUEEN 9",
+      "type": "Tanker",
+      "lat": 1.5530110992297028,
+      "lng": 103.95155798132765,
+      "speed_knots": 4.5,
+      "course": 24.279327696335656,
+      "timestamp": "2026-05-12T19:19:04"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.7453531414831,
+      "lng": -118.25696968149909,
+      "speed_knots": 0.22,
+      "course": 250.2297059169345,
+      "timestamp": "2026-05-12T19:25:41"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.734705569876255,
+      "lng": -118.2692807319756,
+      "speed_knots": 2.7,
+      "course": 229.75399101903974,
+      "timestamp": "2026-05-12T19:40:41"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.72393772297573,
+      "lng": -118.2820020232192,
+      "speed_knots": 3.4,
+      "course": 229.75399101903974,
+      "timestamp": "2026-05-12T19:55:41"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.71316987607519,
+      "lng": -118.2947233144628,
+      "speed_knots": 4.2,
+      "course": 229.75399101903974,
+      "timestamp": "2026-05-12T20:10:41"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.702402029174664,
+      "lng": -118.30744460570641,
+      "speed_knots": 5.5,
+      "course": 229.75399101903974,
+      "timestamp": "2026-05-12T20:25:41"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.69163418227413,
+      "lng": -118.32016589695,
+      "speed_knots": 3.8,
+      "course": 229.75399101903974,
+      "timestamp": "2026-05-12T20:40:41"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.680866335373594,
+      "lng": -118.3328871881936,
+      "speed_knots": 4.8,
+      "course": 229.75399101903974,
+      "timestamp": "2026-05-12T20:55:41"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.670098488473066,
+      "lng": -118.3456084794372,
+      "speed_knots": 5.6,
+      "course": 229.75399101903974,
+      "timestamp": "2026-05-12T21:10:41"
+    },
+    {
+      "mmsi": "200000026",
+      "name": "STELLA MARIS 6",
+      "type": "Container",
+      "lat": 33.65933064157253,
+      "lng": -118.3583297706808,
+      "speed_knots": 7.4,
+      "course": 229.75399101903974,
+      "timestamp": "2026-05-12T21:25:41"
+    }
+  ]
+}

@@ -1,0 +1,519 @@
+{
+  "version": 1,
+  "generated_at": "2026-05-13T16:01:58+00:00",
+  "data": [
+    {
+      "mmsi": "200000026",
+      "locode": "USLAX",
+      "anchorage_entry": "2026-05-12T09:25:41",
+      "berth_entry": null,
+      "departure": "2026-05-12T20:10:41",
+      "wait_time_hours": 10.75,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000021",
+      "locode": "CNSHA",
+      "anchorage_entry": "2026-05-11T21:24:00",
+      "berth_entry": null,
+      "departure": "2026-05-12T16:39:00",
+      "wait_time_hours": 19.25,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000032",
+      "locode": "NLRTM",
+      "anchorage_entry": "2026-05-12T11:43:26",
+      "berth_entry": null,
+      "departure": "2026-05-12T15:28:26",
+      "wait_time_hours": 3.75,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000003",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-12T12:19:04",
+      "berth_entry": null,
+      "departure": "2026-05-12T13:19:04",
+      "wait_time_hours": 1.0,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000003",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-12T09:34:04",
+      "berth_entry": null,
+      "departure": "2026-05-12T10:34:04",
+      "wait_time_hours": 1.0,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000018",
+      "locode": "CNSHA",
+      "anchorage_entry": "2026-05-10T22:36:41",
+      "berth_entry": null,
+      "departure": "2026-05-12T02:06:41",
+      "wait_time_hours": 27.5,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000003",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-11T22:19:04",
+      "berth_entry": null,
+      "departure": "2026-05-11T23:34:04",
+      "wait_time_hours": 1.25,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000006",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-10T14:42:05",
+      "berth_entry": null,
+      "departure": "2026-05-11T22:27:05",
+      "wait_time_hours": 31.75,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000003",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-11T21:04:04",
+      "berth_entry": null,
+      "departure": "2026-05-11T22:04:04",
+      "wait_time_hours": 1.0,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000024",
+      "locode": "USLAX",
+      "anchorage_entry": "2026-05-11T09:01:44",
+      "berth_entry": null,
+      "departure": "2026-05-11T21:16:44",
+      "wait_time_hours": 12.25,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000030",
+      "locode": "NLRTM",
+      "anchorage_entry": "2026-05-11T10:14:14",
+      "berth_entry": null,
+      "departure": "2026-05-11T16:59:14",
+      "wait_time_hours": 6.75,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000002",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-10T00:52:16",
+      "berth_entry": null,
+      "departure": "2026-05-11T13:52:16",
+      "wait_time_hours": 37.0,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000023",
+      "locode": "USLAX",
+      "anchorage_entry": "2026-05-10T22:56:14",
+      "berth_entry": null,
+      "departure": "2026-05-11T11:26:14",
+      "wait_time_hours": 12.5,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000010",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-09T19:06:59",
+      "berth_entry": null,
+      "departure": "2026-05-11T07:51:59",
+      "wait_time_hours": 36.75,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000035",
+      "locode": "DEHAM",
+      "anchorage_entry": "2026-05-10T22:35:33",
+      "berth_entry": null,
+      "departure": "2026-05-11T01:50:33",
+      "wait_time_hours": 3.25,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000015",
+      "locode": "CNSHA",
+      "anchorage_entry": "2026-05-10T01:11:01",
+      "berth_entry": null,
+      "departure": "2026-05-11T01:11:01",
+      "wait_time_hours": 24.0,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000013",
+      "locode": "CNSHA",
+      "anchorage_entry": "2026-05-09T19:25:06",
+      "berth_entry": null,
+      "departure": "2026-05-10T14:25:06",
+      "wait_time_hours": 19.0,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000027",
+      "locode": "USLAX",
+      "anchorage_entry": "2026-05-10T01:36:40",
+      "berth_entry": null,
+      "departure": "2026-05-10T11:21:40",
+      "wait_time_hours": 9.75,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000012",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-08T14:05:13",
+      "berth_entry": null,
+      "departure": "2026-05-10T10:20:13",
+      "wait_time_hours": 44.25,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000014",
+      "locode": "CNSHA",
+      "anchorage_entry": "2026-05-08T12:19:56",
+      "berth_entry": null,
+      "departure": "2026-05-09T20:34:56",
+      "wait_time_hours": 32.25,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000005",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-08T06:30:29",
+      "berth_entry": null,
+      "departure": "2026-05-09T17:00:29",
+      "wait_time_hours": 34.5,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000008",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-08T16:58:23",
+      "berth_entry": null,
+      "departure": "2026-05-09T08:58:23",
+      "wait_time_hours": 16.0,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000009",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-08T01:50:48",
+      "berth_entry": null,
+      "departure": "2026-05-09T08:50:48",
+      "wait_time_hours": 31.0,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000022",
+      "locode": "CNSHA",
+      "anchorage_entry": "2026-05-07T19:10:00",
+      "berth_entry": null,
+      "departure": "2026-05-09T00:55:00",
+      "wait_time_hours": 29.75,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000034",
+      "locode": "DEHAM",
+      "anchorage_entry": "2026-05-08T20:35:24",
+      "berth_entry": null,
+      "departure": "2026-05-08T23:50:24",
+      "wait_time_hours": 3.25,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000011",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-08T13:11:42",
+      "berth_entry": null,
+      "departure": "2026-05-08T18:56:42",
+      "wait_time_hours": 5.75,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000016",
+      "locode": "CNSHA",
+      "anchorage_entry": "2026-05-07T15:17:24",
+      "berth_entry": null,
+      "departure": "2026-05-08T18:32:24",
+      "wait_time_hours": 27.25,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000011",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-08T08:26:42",
+      "berth_entry": null,
+      "departure": "2026-05-08T12:56:42",
+      "wait_time_hours": 4.5,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000004",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-08T11:15:40",
+      "berth_entry": null,
+      "departure": "2026-05-08T12:30:40",
+      "wait_time_hours": 1.25,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000004",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-08T05:00:40",
+      "berth_entry": null,
+      "departure": "2026-05-08T11:00:40",
+      "wait_time_hours": 6.0,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000011",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-08T06:26:42",
+      "berth_entry": null,
+      "departure": "2026-05-08T07:41:42",
+      "wait_time_hours": 1.25,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000011",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-08T03:26:42",
+      "berth_entry": null,
+      "departure": "2026-05-08T06:11:42",
+      "wait_time_hours": 2.75,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000036",
+      "locode": "DEHAM",
+      "anchorage_entry": "2026-05-08T04:18:00",
+      "berth_entry": null,
+      "departure": "2026-05-08T05:48:00",
+      "wait_time_hours": 1.5,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000004",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-08T01:45:40",
+      "berth_entry": null,
+      "departure": "2026-05-08T04:45:40",
+      "wait_time_hours": 3.0,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000036",
+      "locode": "DEHAM",
+      "anchorage_entry": "2026-05-08T01:48:00",
+      "berth_entry": null,
+      "departure": "2026-05-08T04:03:00",
+      "wait_time_hours": 2.25,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000011",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-07T13:56:42",
+      "berth_entry": null,
+      "departure": "2026-05-08T03:11:42",
+      "wait_time_hours": 13.25,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000036",
+      "locode": "DEHAM",
+      "anchorage_entry": "2026-05-08T00:33:00",
+      "berth_entry": null,
+      "departure": "2026-05-08T01:33:00",
+      "wait_time_hours": 1.0,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000004",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-07T18:45:40",
+      "berth_entry": null,
+      "departure": "2026-05-08T01:30:40",
+      "wait_time_hours": 6.75,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000017",
+      "locode": "CNSHA",
+      "anchorage_entry": "2026-05-07T03:38:12",
+      "berth_entry": null,
+      "departure": "2026-05-07T21:53:12",
+      "wait_time_hours": 18.25,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000019",
+      "locode": "CNSHA",
+      "anchorage_entry": "2026-05-06T15:19:54",
+      "berth_entry": null,
+      "departure": "2026-05-07T20:19:54",
+      "wait_time_hours": 29.0,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000004",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-07T15:45:40",
+      "berth_entry": null,
+      "departure": "2026-05-07T18:30:40",
+      "wait_time_hours": 2.75,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000001",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-06T12:50:43",
+      "berth_entry": null,
+      "departure": "2026-05-07T17:35:43",
+      "wait_time_hours": 28.75,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000011",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-07T00:11:42",
+      "berth_entry": null,
+      "departure": "2026-05-07T13:41:42",
+      "wait_time_hours": 13.5,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000020",
+      "locode": "CNSHA",
+      "anchorage_entry": "2026-05-06T05:24:10",
+      "berth_entry": null,
+      "departure": "2026-05-07T12:09:10",
+      "wait_time_hours": 30.75,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000031",
+      "locode": "NLRTM",
+      "anchorage_entry": "2026-05-07T05:38:40",
+      "berth_entry": null,
+      "departure": "2026-05-07T06:53:40",
+      "wait_time_hours": 1.25,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000028",
+      "locode": "USLAX",
+      "anchorage_entry": "2026-05-07T03:20:55",
+      "berth_entry": null,
+      "departure": "2026-05-07T05:05:55",
+      "wait_time_hours": 1.75,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000007",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-07T01:04:41",
+      "berth_entry": null,
+      "departure": "2026-05-07T05:04:41",
+      "wait_time_hours": 4.0,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000007",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-06T22:34:41",
+      "berth_entry": null,
+      "departure": "2026-05-07T00:49:41",
+      "wait_time_hours": 2.25,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000025",
+      "locode": "USLAX",
+      "anchorage_entry": "2026-05-06T15:44:04",
+      "berth_entry": null,
+      "departure": "2026-05-07T00:44:04",
+      "wait_time_hours": 9.0,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000029",
+      "locode": "NLRTM",
+      "anchorage_entry": "2026-05-06T21:03:31",
+      "berth_entry": null,
+      "departure": "2026-05-06T23:33:31",
+      "wait_time_hours": 2.5,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000007",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-06T21:19:41",
+      "berth_entry": null,
+      "departure": "2026-05-06T22:19:41",
+      "wait_time_hours": 1.0,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000007",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-06T18:34:41",
+      "berth_entry": null,
+      "departure": "2026-05-06T20:34:41",
+      "wait_time_hours": 2.0,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000007",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-06T14:19:41",
+      "berth_entry": null,
+      "departure": "2026-05-06T17:34:41",
+      "wait_time_hours": 3.25,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000033",
+      "locode": "DEHAM",
+      "anchorage_entry": "2026-05-06T08:39:45",
+      "berth_entry": null,
+      "departure": "2026-05-06T14:39:45",
+      "wait_time_hours": 6.0,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000007",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-06T12:49:41",
+      "berth_entry": null,
+      "departure": "2026-05-06T14:04:41",
+      "wait_time_hours": 1.25,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000007",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-06T09:04:41",
+      "berth_entry": null,
+      "departure": "2026-05-06T11:04:41",
+      "wait_time_hours": 2.0,
+      "status": "departed"
+    },
+    {
+      "mmsi": "200000007",
+      "locode": "SGSIN",
+      "anchorage_entry": "2026-05-06T03:19:41",
+      "berth_entry": null,
+      "departure": "2026-05-06T08:04:41",
+      "wait_time_hours": 4.75,
+      "status": "departed"
+    }
+  ]
+}
