@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ais_port_congestion"
+version = "0.1.0"
+description = "Port congestion detection from AIS vessel positions and OSM port polygons."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "requests",
+    "sqlalchemy",
+    "shapely",
+    "pydantic",
+    "python-dotenv",
+]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[tool.setuptools.packages.find]
+include = ["ingest*", "db*"]
